@@ -1,8 +1,8 @@
 ## Today I learned
 
 ### test
-* class
-* function 
+* list
+* property
 
 Welcome to GitHub Pages
 
